@@ -1,4 +1,4 @@
- Hi there :speech_balloon:
+ Hey there :speech_balloon:
 
 Meu nome é Pedro Siqueira, sou um desenvolvedor Front-end. Atualmente sigo aprendendo novos conceitos, conhecendo novas tecnologias e consolidando projetos pessoais para aprimorar meus conhecimentos constantemente
 
