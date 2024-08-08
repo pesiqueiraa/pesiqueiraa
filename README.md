@@ -15,7 +15,7 @@
 
 ## 🎯 **Objetivos**
 - Aprimorar conhecimentos em programação e Soft Skills
-- Contribuir para projetos open-source
+- Desenvolver novos projetos
 - Expandir networking na área 
 
 ## 📬 **Contato**
