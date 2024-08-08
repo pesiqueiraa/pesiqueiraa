@@ -1,14 +1,22 @@
- Hey there :speech_balloon:
+## 👋 Olá! Meu nome é Pedro Siqueira 
+- 🎓 **Formação:** Ciência da Computação (Mackenzie)
+- 🌍 **Localização:** Barueri
 
-Meu nome é Pedro Siqueira, sou um desenvolvedor Front-end. Atualmente sigo aprendendo novos conceitos, conhecendo novas tecnologias e consolidando projetos pessoais para aprimorar meus conhecimentos constantemente
+## 🛠️ **Habilidades**
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 
-:bulb: Tenho conhecimento nas seguintes tecnologias:
+## 📈 **Experiência**
+- **Intercâmbio | Toronto/CA**: Após seis semanas de estudo intensivo da língua inglesa, consegui aprimorar significativamente minhas habilidades de comunicação oral e escrita.
 
-- HTML :open_file_folder:
+- **Web Development BootCamp | Inteli**: Participei do BootCamp de Desenvolvimento Web na Inteli, onde desenvolvi junto com minha equipe uma página de carreiras para o Banco BTG Pactual, aprimorando meus conhecimentos em HTML, CSS e JavaScript. 
 
-- CSS :pencil2:
+## 🎯 **Objetivos**
+- Aprimorar conhecimentos em programação e Soft Skills
+- Contribuir para projetos open-source
+- Expandir networking na área 
 
-- JavaScript :triangular_ruler:
-
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pesiqueiraa&layout=pie)](https://github.com/anuraghazra/github-readme-stats)
+## 📬 **Contato**
+[![portfolio](https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white)](pedro-siqueira-portfolio.netlify.app) [![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](www.linkedin.com/in/pedrosiqueirasouza) 
