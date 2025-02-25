@@ -1,6 +1,6 @@
 ## 👋 Olá! Meu nome é Pedro Siqueira 
-- 🎓 **Formação:** Ciência da Computação (Mackenzie)
-- 🌍 **Localização:** Barueri
+- 🎓 **Formação:** Ciência da Computação - Inteli.
+- 🌍 **Localização:** São Paulo
 
 ## 🛠️ **Habilidades**
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
